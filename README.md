@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TuanNamLuong911
 - 👀 I’m interested in football and food
 - 🌱 I’m currently learning data analyst
-- 💞️ I’m looking to intern on a company about data
+- 💞️ I’m looking for a DA position (as an intern)
 - 📫 How to reach me luongtuannamhanoi911@gmail.com
 
 <!---
